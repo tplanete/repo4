@@ -1,5 +1,5 @@
 package jpro;
 
 public class Main {
-1
+12s
 }
